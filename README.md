@@ -98,8 +98,3 @@ Only the following people have merge access for the master branch.
 * [@Unbanksy](https://github.com/unbanksy)
 * [@ZayenX](https://github.com/lolchocotaco)
 
-
-## 🗣 Community
-
-* [Join our Discord](https://discord.gg/gGZUMVDuhQ) and ask how you can get involved with the DAO!
-
